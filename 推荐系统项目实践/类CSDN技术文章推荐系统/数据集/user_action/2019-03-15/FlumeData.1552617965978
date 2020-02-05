@@ -1,0 +1,100 @@
+{"actionTime":"2019-03-15 10:34:52","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "10", "articleId": "[147, 391, 153]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 10:20:50","readTime":"655","channelId":2,"param":{"action": "read", "userId": "20", "articleId": "12", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 10:20:51","readTime":"","channelId":3,"param":{"action": "click", "userId": "30", "articleId": "617", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 10:20:53","readTime":"332","channelId":7,"param":{"action": "read", "userId": "50", "articleId": "313", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 10:20:54","readTime":"","channelId":1,"param":{"action": "exposure", "userId": "60", "articleId": "781", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 11:35:01","readTime":"","channelId":9,"param":{"action": "exposure", "userId": "70", "articleId": "[721, 26]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 11:35:07","readTime":"","channelId":8,"param":{"action": "exposure", "userId": "80", "articleId": "[362, 724, 122]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:34:52","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "90", "articleId": "[326, 267, 294]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:50","readTime":"532","channelId":3,"param":{"action": "read", "userId": "100", "articleId": "623", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:51","readTime":"","channelId":4,"param":{"action": "click", "userId": "110", "articleId": "431", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 10:20:53","readTime":"316","channelId":6,"param":{"action": "read", "userId": "104", "articleId": "383", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 10:20:54","readTime":"","channelId":5,"param":{"action": "click", "userId": "115", "articleId": "743", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 11:35:01","readTime":"","channelId":7,"param":{"action": "exposure", "userId": "105", "articleId": "334", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 11:35:07","readTime":"","channelId":3,"param":{"action": "click", "userId": "106", "articleId": "130", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 11:35:07","readTime":"","channelId":10,"param":{"action": "collect", "userId": "107", "articleId": "736", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:34:52","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "108", "articleId": "[146, 454, 154]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:50","readTime":"455","channelId":8,"param":{"action": "read", "userId": "109", "articleId": "184", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:51","readTime":"","channelId":3,"param":{"action": "click", "userId": "120", "articleId": "190", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:53","readTime":"1023","channelId":2,"param":{"action": "read", "userId": "91", "articleId": "179", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:54","readTime":"","channelId":9,"param":{"action": "exposure", "userId": "93", "articleId": "10", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:35:01","readTime":"","channelId":1,"param":{"action": "exposure", "userId": "94", "articleId": "[159, 798, 869]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:35:07","readTime":"","channelId":6,"param":{"action": "exposure", "userId": "95", "articleId": "[90, 759, 469]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:34:52","readTime":"","channelId":2,"param":{"action": "exposure", "userId": "97", "articleId": "[79, 92, 19]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:50","readTime":"789","channelId":6,"param":{"action": "read", "userId": "98", "articleId": "763", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:51","readTime":"","channelId":7,"param":{"action": "click", "userId": "99", "articleId": "86", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:53","readTime":"365","channelId":3,"param":{"action": "read", "userId": "90", "articleId": "67", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:20:54","readTime":"","channelId":9,"param":{"action": "click", "userId": "81", "articleId": "42", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 15:35:01","readTime":"","channelId":10,"param":{"action": "exposure", "userId": "82", "articleId": "473", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 16:35:07","readTime":"","channelId":4,"param":{"action": "click", "userId": "83", "articleId": "479", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 16:35:07","readTime":"","channelId":5,"param":{"action": "collect", "userId": "85", "articleId": "682", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 16:36:07","readTime":"","channelId":3,"param":{"action": "collect", "userId": "86", "articleId": "593", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 16:36:07","readTime":"","channelId":4,"param":{"action": "share", "userId": "87", "articleId": "598", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 16:37:07","readTime":"","channelId":9,"param":{"action": "share", "userId": "88", "articleId": "545", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 17:34:52","readTime":"","channelId":7,"param":{"action": "exposure", "userId": "80", "articleId": "[547, 589, 356]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 17:20:50","readTime":"475","channelId":6,"param":{"action": "read", "userId": "71", "articleId": "991", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 17:20:51","readTime":"","channelId":8,"param":{"action": "click", "userId": "73", "articleId": "783", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 17:20:53","readTime":"974","channelId":4,"param":{"action": "read", "userId": "75", "articleId": "564", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 17:20:54","readTime":"","channelId":2,"param":{"action": "exposure", "userId": "86", "articleId": "655", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 17:35:01","readTime":"","channelId":6,"param":{"action": "exposure", "userId": "77", "articleId": "[36, 874]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:35:07","readTime":"","channelId":8,"param":{"action": "exposure", "userId": "78", "articleId": "[625, 245, 60]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:34:52","readTime":"","channelId":10,"param":{"action": "exposure", "userId": "79", "articleId": "[564, 872, 265, 45, 85]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:20:50","readTime":"456","channelId":9,"param":{"action": "read", "userId": "70", "articleId": "62", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:20:51","readTime":"","channelId":1,"param":{"action": "click", "userId": "61", "articleId": "886", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:20:53","readTime":"621","channelId":5,"param":{"action": "read", "userId": "62", "articleId": "324", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:20:54","readTime":"","channelId":3,"param":{"action": "click", "userId": "63", "articleId": "846", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:35:01","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "65", "articleId": "668", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:35:07","readTime":"","channelId":9,"param":{"action": "click", "userId": "66", "articleId": "246", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 18:35:07","readTime":"","channelId":10,"param":{"action": "collect", "userId": "67", "articleId": "144", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:34:52","readTime":"","channelId":4,"param":{"action": "exposure", "userId": "68", "articleId": "[463, 83, 24]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:20:50","readTime":"455","channelId":6,"param":{"action": "read", "userId": "69", "articleId": "35", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:20:51","readTime":"","channelId":1,"param":{"action": "click", "userId": "60", "articleId": "13", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:20:53","readTime":"987","channelId":2,"param":{"action": "read", "userId": "52", "articleId": "25", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:20:54","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "53", "articleId": "46", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:35:01","readTime":"","channelId":10,"param":{"action": "exposure", "userId": "54", "articleId": "[65, 74, 57]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:35:07","readTime":"","channelId":7,"param":{"action": "exposure", "userId": "55", "articleId": "[778, 595, 232]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:34:52","readTime":"","channelId":1,"param":{"action": "exposure", "userId": "56", "articleId": "[780, 695, 290]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:20:50","readTime":"821","channelId":3,"param":{"action": "read", "userId": "57", "articleId": "528", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 19:20:51","readTime":"","channelId":8,"param":{"action": "click", "userId": "58", "articleId": "899", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:20:53","readTime":"365","channelId":9,"param":{"action": "read", "userId": "59", "articleId": "978", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:20:54","readTime":"","channelId":10,"param":{"action": "click", "userId": "50", "articleId": "985", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:35:01","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "42", "articleId": "685", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:35:07","readTime":"","channelId":4,"param":{"action": "click", "userId": "43", "articleId": "658", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:35:07","readTime":"","channelId":1,"param":{"action": "collect", "userId": "45", "articleId": "685", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:36:07","readTime":"","channelId":3,"param":{"action": "collect", "userId": "46", "articleId": "786", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:36:07","readTime":"","channelId":9,"param":{"action": "share", "userId": "47", "articleId": "885", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 20:37:07","readTime":"","channelId":6,"param":{"action": "share", "userId": "48", "articleId": "983", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:34:52","readTime":"","channelId":4,"param":{"action": "exposure", "userId": "49", "articleId": "[465, 694, 183]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:50","readTime":"411","channelId":2,"param":{"action": "read", "userId": "40", "articleId": "590", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:51","readTime":"","channelId":3,"param":{"action": "click", "userId": "42", "articleId": "209", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:53","readTime":"456","channelId":6,"param":{"action": "read", "userId": "33", "articleId": "606", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:54","readTime":"","channelId":8,"param":{"action": "exposure", "userId": "34", "articleId": "[25, 11, 2]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:35:07","readTime":"","channelId":10,"param":{"action": "exposure", "userId": "35", "articleId": "[586, 5, 714]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:34:52","readTime":"","channelId":5,"param":{"action": "exposure", "userId": "36", "articleId": "[685, 135, 356]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:50","readTime":"899","channelId":2,"param":{"action": "read", "userId": "38", "articleId": "183", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:51","readTime":"","channelId":3,"param":{"action": "click", "userId": "39", "articleId": "19", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:53","readTime":"538","channelId":6,"param":{"action": "read", "userId": "30", "articleId": "96", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:20:54","readTime":"","channelId":7,"param":{"action": "click", "userId": "32", "articleId": "61", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:35:01","readTime":"","channelId":9,"param":{"action": "exposure", "userId": "34", "articleId": "54", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 21:35:07","readTime":"","channelId":1,"param":{"action": "click", "userId": "35", "articleId": "59", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:35:07","readTime":"","channelId":4,"param":{"action": "collect", "userId": "36", "articleId": "44", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:34:52","readTime":"","channelId":3,"param":{"action": "exposure", "userId": "27", "articleId": "[33, 354, 154]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:50","readTime":"980","channelId":2,"param":{"action": "read", "userId": "28", "articleId": "498", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:51","readTime":"","channelId":3,"param":{"action": "click", "userId": "29", "articleId": "222", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:53","readTime":"633","channelId":6,"param":{"action": "read", "userId": "120", "articleId": "520", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:54","readTime":"","channelId":8,"param":{"action": "exposure", "userId": "21", "articleId": "438", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:35:01","readTime":"","channelId":9,"param":{"action": "exposure", "userId": "22", "articleId": "[178, 554]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:35:07","readTime":"","channelId":10,"param":{"action": "exposure", "userId": "23", "articleId": "[150, 252, 192]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:34:52","readTime":"","channelId":6,"param":{"action": "exposure", "userId": "25", "articleId": "[805, 64, 25]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:50","readTime":"678","channelId":2,"param":{"action": "read", "userId": "27", "articleId": "82", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:51","readTime":"","channelId":3,"param":{"action": "click", "userId": "28", "articleId": "32", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:53","readTime":"532","channelId":6,"param":{"action": "read", "userId": "20", "articleId": "64", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 22:20:54","readTime":"","channelId":7,"param":{"action": "click", "userId": "24", "articleId": "97", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:35:01","readTime":"","channelId":9,"param":{"action": "exposure", "userId": "34", "articleId": "60", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:35:07","readTime":"","channelId":1,"param":{"action": "click", "userId": "25", "articleId": "67", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:35:07","readTime":"","channelId":5,"param":{"action": "collect", "userId": "26", "articleId": "89", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:36:07","readTime":"","channelId":8,"param":{"action": "collect", "userId": "27", "articleId": "501", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:36:07","readTime":"","channelId":1,"param":{"action": "share", "userId": "38", "articleId": "384", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:37:07","readTime":"","channelId":5,"param":{"action": "share", "userId": "29", "articleId": "100", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:34:52","readTime":"","channelId":6,"param":{"action": "exposure", "userId": "20", "articleId": "[147, 143, 168]", "algorithmCombine": "C2"}}
+{"actionTime":"2019-03-15 23:34:52","readTime":"","channelId":7,"param":{"action": "exposure", "userId": "40", "articleId": "[405, 503, 601]", "algorithmCombine": "C2"}}
