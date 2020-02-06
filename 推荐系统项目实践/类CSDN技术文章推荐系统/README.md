@@ -99,6 +99,15 @@
     - 文章特征中心：基于文章画像构造文章特征，并保存在HBase表中。
     - ![离线CTR特征中心代码参考](./代码/离线CTR特征中心)
   
+### 实时召回
+
+  - 实时召回流程：
+    - Flume --> Kafka --> Spark Streaming
+    - Flume收集用户点击日志，并传入指定的Kafka Topic。
+    - Spark Streaming读取Kafka Topic中的数据，并找到与点击文章相似的文章生成推荐列表。
+    - 将推荐列表保存在HBase表中。
+    - ![实时召回代码参考](./代码/实时召回)
+    
   
     
     
