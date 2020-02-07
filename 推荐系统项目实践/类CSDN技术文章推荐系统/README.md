@@ -108,7 +108,23 @@
     - 将推荐列表保存在HBase表中。
     - ![实时召回代码参考](./代码/实时召回)
     
+### 基于TensorFlow的排序模型
+
+  - FTRL模型
+  - Wide&Deep模型
   
+#### FTRL模型
+
+  - 训练FTRL模型流程：
+    - 保存训练数据为TFRecord格式。
+    - 读取TFRecord数据，并使用FTRL模型进行训练。
+    - 评估FTRL模型性能。
+    - ![FTRL模型代码参考](./代码/FTRL模型)
+  - 训练Wide&Deep模型流程：
+    - 读取TFRecord数据，并使用Wide&Deep模型进行训练。
+    - 评估Wide&Deep模型性能。
+    - 保存训练好的Wide&Deep模型。
+    - ![Wide&Deep模型代码参考](./代码/Wide&Deep模型)
     
     
   
