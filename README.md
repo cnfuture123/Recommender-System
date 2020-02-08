@@ -1,5 +1,4 @@
 # Recommender-System
-推荐系统资料
 
 ## 推荐系统学习资料和知识总结
 
